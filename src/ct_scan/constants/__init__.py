@@ -4,5 +4,5 @@ from pathlib import Path
 current_dir = Path(__file__).resolve().parent
 
 # Define the paths relative to the current directory
-CONFIG_FILE_PATH = current_dir / "config" / "config.yaml"
-PARAMS_FILE_PATH = current_dir / "params.yaml"
+CONFIG_FILE_PATH = Path("/Users/pradhyumnyadav/Desktop/chest_ctscan_analysis/src/ct_scan/constants/config/config.yaml")
+PARAMS_FILE_PATH = Path("/Users/pradhyumnyadav/Desktop/chest_ctscan_analysis/src/ct_scan/constants/config/params.yaml")
