@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pradhyumnyadav/Desktop/chest_ctscan_analysis/mlruns/0/5e862038bce645a38582c24bf50a59ff/artifacts
+end_time: 1708762506921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e862038bce645a38582c24bf50a59ff
+run_name: handsome-donkey-239
+run_uuid: 5e862038bce645a38582c24bf50a59ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708762501187
+status: 3
+tags: []
+user_id: pradhyumnyadav
